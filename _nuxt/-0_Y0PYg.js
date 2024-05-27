@@ -1,0 +1,1 @@
+import{_ as e}from"./BMGDrmTs.js";import{k as o,o as t,F as c}from"./uAlNcoh6.js";const s={},n=c("h1",null,"Контакты",-1),r=[n];function _(a,l){return t(),o("div",null,r)}const i=e(s,[["render",_]]);export{i as default};
